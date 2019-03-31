@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 
 def fromVideo():
-    filename = 'video1.mp4'
+    filename = 'video2.mp4'
     import cv2
     cap = cv2.VideoCapture(filename)
     count = 0
